@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "fredyandresrosero@gmail.com",
+    "longName": "TestCell",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "TestCel",
+    "uuid": "668d03b3-b738-46bd-9a58-72b302bc90fb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
